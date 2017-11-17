@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SwingConsole">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../SwingConsole" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../SwingConsole/src" />
+    </SOURCES>
+  </library>
+</component>

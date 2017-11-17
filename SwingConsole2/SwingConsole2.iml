@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../Coin_Flip/src" />
+          <root url="file://$MODULE_DIR$/../Excercise1/src" />
+          <root url="file://$MODULE_DIR$/../Excercise3/src" />
+          <root url="file://$MODULE_DIR$/../Excercise8/src" />
+          <root url="file://$MODULE_DIR$/../Graphic_test1/src" />
+          <root url="file://$MODULE_DIR$/../HelloDate/src" />
+          <root url="file://$MODULE_DIR$/../HeloWorld/src" />
+          <root url="file://$MODULE_DIR$/../Initialization&amp;Cleanup/Exc1/src" />
+          <root url="file://$MODULE_DIR$/../Initialization&amp;Cleanup/Exc2/src" />
+          <root url="file://$MODULE_DIR$/../Short_print/src" />
+          <root url="file://$MODULE_DIR$/../ShowProperties/src" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../SwingConsole/src" />
+          <root url="file://$MODULE_DIR$/../Velocity/src" />
+          <root url="file://$MODULE_DIR$/../aliasing_during_method_calls/src" />
+          <root url="file://$MODULE_DIR$/../displayframework/src" />
+          <root url="file://$MODULE_DIR$/../p101_ex11/src" />
+          <root url="file://$MODULE_DIR$/../p113_Ex14/src" />
+          <root url="file://$MODULE_DIR$/../p120_foreach_example/src" />
+          <root url="file://$MODULE_DIR$/../p121_ex6/src" />
+          <root url="file://$MODULE_DIR$/../p122_ex7/src" />
+          <root url="file://$MODULE_DIR$/../p128_Excercise8/src" />
+          <root url="file://$MODULE_DIR$/../p128_ex10/src" />
+          <root url="file://$MODULE_DIR$/../p128_ex9/src" />
+          <root url="file://$MODULE_DIR$/../p131_ex1/src" />
+          <root url="file://$MODULE_DIR$/../p137_ex1/src" />
+          <root url="file://$MODULE_DIR$/../p139_ex8/src" />
+          <root url="file://$MODULE_DIR$/../p140_Flower/src" />
+          <root url="file://$MODULE_DIR$/../p144_exc10/src" />
+          <root url="file://$MODULE_DIR$/../p153_ex13/src" />
+          <root url="file://$MODULE_DIR$/../p158_exc16/src" />
+          <root url="file://$MODULE_DIR$/../p163_ex19/src" />
+          <root url="file://$MODULE_DIR$/../p172_ex1/src" />
+          <root url="file://$MODULE_DIR$/../p180_ex4/src" />
+          <root url="file://$MODULE_DIR$/../p190_example/src" />
+          <root url="file://$MODULE_DIR$/../p191_ex2/src" />
+          <root url="file://$MODULE_DIR$/../p192_ex3_4_5/src" />
+          <root url="file://$MODULE_DIR$/../p193_ex6/src" />
+          <root url="file://$MODULE_DIR$/../p195_ex11/src" />
+          <root url="file://$MODULE_DIR$/../p199_ex12/src" />
+          <root url="file://$MODULE_DIR$/../p200_ex13/src" />
+          <root url="file://$MODULE_DIR$/../p201_ec14/src" />
+          <root url="file://$MODULE_DIR$/../p202_ex15/src" />
+          <root url="file://$MODULE_DIR$/../p204_ex16/src" />
+          <root url="file://$MODULE_DIR$/../p206_ex18/src" />
+          <root url="file://$MODULE_DIR$/../p96_ex8/src" />
+          <root url="file://$MODULE_DIR$/../p98_ex10/src" />
+          <root url="file://$MODULE_DIR$/../page118_excercises/src" />
+          <root url="file://$MODULE_DIR$/../page127/src" />
+          <root url="file://$MODULE_DIR$/../page89/src" />
+          <root url="file://$MODULE_DIR$/../page93_Dog/src" />
+          <root url="file://$MODULE_DIR$/../test/src" />
+          <root url="file://$MODULE_DIR$/../testingGitRepo/src" />
+          <root url="file://$MODULE_DIR$/../testr/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="SwingConsole" level="project" />
+  </component>
+</module>
